@@ -1,0 +1,21 @@
+c:\visual Projects\Froggy\Froggy\bin\Debug\Froggy.exe.config
+c:\visual Projects\Froggy\Froggy\bin\Debug\Froggy.exe
+c:\visual Projects\Froggy\Froggy\bin\Debug\Froggy.pdb
+c:\visual Projects\Froggy\Froggy\obj\Debug\Froggy.Properties.Resources.resources
+c:\visual Projects\Froggy\Froggy\obj\Debug\Froggy.csproj.GenerateResource.Cache
+c:\visual Projects\Froggy\Froggy\obj\Debug\Froggy.exe
+c:\visual Projects\Froggy\Froggy\obj\Debug\Froggy.pdb
+c:\visual Projects\Froggy\Froggy\obj\Debug\Froggy.frmGame1.resources
+c:\visual Projects\Froggy\Froggy\obj\Debug\Froggy.csprojResolveAssemblyReference.cache
+C:\visual Projects\Froggy — kopia\Froggy\bin\Debug\Froggy.exe.config
+C:\visual Projects\Froggy — kopia\Froggy\obj\Debug\Froggy.exe
+C:\visual Projects\Froggy — kopia\Froggy\obj\Debug\Froggy.pdb
+C:\visual Projects\Froggy — kopia\Froggy\bin\Debug\Froggy.exe
+C:\visual Projects\Froggy — kopia\Froggy\bin\Debug\Froggy.pdb
+C:\visual Projects\Froggy — kopia\Froggy\obj\Debug\Froggy.csprojResolveAssemblyReference.cache
+C:\visual Projects\Froggy — kopia\Froggy\obj\Debug\Froggy.frmGame1.resources
+C:\visual Projects\Froggy — kopia\Froggy\obj\Debug\Froggy.Properties.Resources.resources
+C:\visual Projects\Froggy — kopia\Froggy\obj\Debug\Froggy.csproj.GenerateResource.Cache
+C:\visual Projects\Froggy-git\Froggy\bin\Debug\Froggy.exe.config
+C:\visual Projects\Froggy-git\Froggy\obj\Debug\Froggy.exe
+C:\visual Projects\Froggy-git\Froggy\obj\Debug\Froggy.pdb
